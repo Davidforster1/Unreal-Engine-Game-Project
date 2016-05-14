@@ -1,0 +1,288 @@
+------------------
+System Information
+------------------
+Time of this report: 11/12/2015, 20:12:57
+       Machine name: DAHID-GAMINGPC
+   Operating System: Windows 7 Professional 64-bit (6.1, Build 7601) Service Pack 1 (7601.win7sp1_gdr.151019-1254)
+           Language: English (Regional Setting: English)
+System Manufacturer: Gigabyte Technology Co., Ltd.
+       System Model: PH67-DS3-B3
+               BIOS: Award Modular BIOS v6.00PG
+          Processor: Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz (4 CPUs), ~3.3GHz
+             Memory: 12288MB RAM
+Available OS Memory: 12272MB RAM
+          Page File: 5889MB used, 18651MB available
+        Windows Dir: C:\Windows
+    DirectX Version: DirectX 11
+DX Setup Parameters: Not found
+   User DPI Setting: Using System DPI
+ System DPI Setting: 96 DPI (100 percent)
+    DWM DPI Scaling: Disabled
+     DxDiag Version: 6.01.7601.17514 32bit Unicode
+  DxDiag Previously: Crashed in system information (stage 3) & Direct3D (stage 3) & DirectSound (stage 3) & DirectInput (stage 1) & DirectShow (stage 1). Re-running DxDiag with "dontskip" command line parameter or choosing not to bypass information gathering when prompted might result in DxDiag successfully obtaining this information
+
+------------
+DxDiag Notes
+------------
+      Display Tab 1: No problems found.
+        Sound Tab 1: No problems found.
+        Sound Tab 2: No problems found.
+        Sound Tab 3: No problems found.
+        Sound Tab 4: No problems found.
+        Sound Tab 5: No problems found.
+          Input Tab: 
+
+--------------------
+DirectX Debug Levels
+--------------------
+Direct3D:    0/4 (retail)
+DirectDraw:  0/4 (retail)
+DirectInput: 0/5 (retail)
+DirectMusic: 0/5 (retail)
+DirectPlay:  0/9 (retail)
+DirectSound: 0/5 (retail)
+DirectShow:  0/6 (retail)
+
+---------------
+Display Devices
+---------------
+          Card name: ATI Radeon HD 5670
+       Manufacturer: Advanced Micro Devices, Inc.
+          Chip type: AMD Radeon Graphics Processor (0x68D8)
+           DAC type: Internal DAC(400MHz)
+         Device Key: Enum\PCI\VEN_1002&DEV_68D8&SUBSYS_03561043&REV_00
+     Display Memory: 4095 MB
+   Dedicated Memory: 1008 MB
+      Shared Memory: 3087 MB
+       Current Mode: 1600 x 900 (32 bit) (60Hz)
+       Monitor Name: BenQ G2020HDA (Analog)
+      Monitor Model: BenQ G2020HD
+         Monitor Id: BNQ781E
+        Native Mode: 1600 x 900(p) (59.978Hz)
+        Output Type: HD15
+        Driver Name: aticfx64.dll,aticfx64.dll,aticfx64.dll,aticfx32,aticfx32,aticfx32,atiumd64.dll,atidxx64.dll,atidxx64.dll,atiumdag,atidxx32,atidxx32,atiumdva,atiumd6a.cap,atitmm64.dll
+Driver File Version: 8.17.0010.1172 (English)
+     Driver Version: 9.12.0.0
+        DDI Version: 
+       Driver Model: WDDM 1.1
+  Driver Attributes: Final Retail
+   Driver Date/Size: 12/19/2012 22:08:04, 1151488 bytes
+        WHQL Logo'd: Yes
+    WHQL Date Stamp: 
+  Device Identifier: {D7B71EE2-2B98-11CF-6777-5C23BEC2C535}
+          Vendor ID: 0x1002
+          Device ID: 0x68D8
+          SubSys ID: 0x03561043
+        Revision ID: 0x0000
+ Driver Strong Name: oem14.inf:ATI.Mfg.NTamd64.6.1:ati2mtag_Evergreen:9.12.0.0:pci\ven_1002&dev_68d8
+     Rank Of Driver: 00E62001
+        Video Accel: 
+      Deinterlace Caps: n/a
+       D3D9 Overlay: Not Supported
+            DXVA-HD: Not Supported
+       DDraw Status: Enabled
+         D3D Status: Not Available
+         AGP Status: Enabled
+
+-------------
+Sound Devices
+-------------
+            Description: Line 1 (Virtual Audio Cable)
+ Default Sound Playback: No
+ Default Voice Playback: No
+            Hardware ID: EuMusDesign_VAC_WDM
+        Manufacturer ID: 1
+             Product ID: 100
+                   Type: WDM
+            Driver Name: vrtaucbl.sys
+         Driver Version: 4.10.0000.2964 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: n/a
+          Date and Size: 8/29/2015 19:43:20, 66728 bytes
+            Other Files: 
+        Driver Provider: EuMus Design
+         HW Accel Level: Basic
+              Cap Flags: 0x0
+    Min/Max Sample Rate: 0, 0
+Static/Strm HW Mix Bufs: 0, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
+            Description: Line 2 (Virtual Audio Cable)
+ Default Sound Playback: No
+ Default Voice Playback: No
+            Hardware ID: EuMusDesign_VAC_WDM
+        Manufacturer ID: 1
+             Product ID: 100
+                   Type: WDM
+            Driver Name: vrtaucbl.sys
+         Driver Version: 4.10.0000.2964 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: n/a
+          Date and Size: 8/29/2015 19:43:20, 66728 bytes
+            Other Files: 
+        Driver Provider: EuMus Design
+         HW Accel Level: Basic
+              Cap Flags: 0x0
+    Min/Max Sample Rate: 0, 0
+Static/Strm HW Mix Bufs: 0, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
+            Description: Digital Audio (S/PDIF) (High Definition Audio Device)
+ Default Sound Playback: No
+ Default Voice Playback: No
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0889&SUBSYS_1458A002&REV_1000
+        Manufacturer ID: 1
+             Product ID: 65535
+                   Type: WDM
+            Driver Name: HdAudio.sys
+         Driver Version: 6.01.7601.17514 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: n/a
+          Date and Size: 11/20/2010 12:44:23, 350208 bytes
+            Other Files: 
+        Driver Provider: Microsoft
+         HW Accel Level: Basic
+              Cap Flags: 0x0
+    Min/Max Sample Rate: 0, 0
+Static/Strm HW Mix Bufs: 0, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
+            Description: Headphones (Raptor HS40)
+ Default Sound Playback: No
+ Default Voice Playback: No
+            Hardware ID: USB\VID_1B1C&PID_0A06&REV_0100&MI_00
+        Manufacturer ID: 1
+             Product ID: 100
+                   Type: WDM
+            Driver Name: Sunstreaker.sys
+         Driver Version: 7.00.0013.0807 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: n/a
+          Date and Size: 8/7/2013 08:09:32, 388096 bytes
+            Other Files: 
+        Driver Provider: C-MEDIA Inc.
+         HW Accel Level: Basic
+              Cap Flags: 0x0
+    Min/Max Sample Rate: 0, 0
+Static/Strm HW Mix Bufs: 0, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
+            Description: Digital Audio (S/PDIF) (High Definition Audio Device)
+ Default Sound Playback: No
+ Default Voice Playback: No
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0889&SUBSYS_1458A002&REV_1000
+        Manufacturer ID: 1
+             Product ID: 65535
+                   Type: WDM
+            Driver Name: HdAudio.sys
+         Driver Version: 6.01.7601.17514 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: n/a
+          Date and Size: 11/20/2010 12:44:23, 350208 bytes
+            Other Files: 
+        Driver Provider: Microsoft
+         HW Accel Level: Basic
+              Cap Flags: 0x0
+    Min/Max Sample Rate: 0, 0
+Static/Strm HW Mix Bufs: 0, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
+---------------------
+Sound Capture Devices
+---------------------
+            Description: Microphone (Raptor HS40)
+  Default Sound Capture: No
+  Default Voice Capture: No
+            Driver Name: Sunstreaker.sys
+         Driver Version: 7.00.0013.0807 (English)
+      Driver Attributes: Final Retail
+          Date and Size: 8/7/2013 08:09:32, 388096 bytes
+              Cap Flags: 0x0
+           Format Flags: 0x0
+
+            Description: Line 1 (Virtual Audio Cable)
+  Default Sound Capture: No
+  Default Voice Capture: No
+            Driver Name: vrtaucbl.sys
+         Driver Version: 4.10.0000.2964 (English)
+      Driver Attributes: Final Retail
+          Date and Size: 8/29/2015 19:43:20, 66728 bytes
+              Cap Flags: 0x0
+           Format Flags: 0x0
+
+            Description: Mic 2 (Virtual Audio Cable)
+  Default Sound Capture: No
+  Default Voice Capture: No
+            Driver Name: vrtaucbl.sys
+         Driver Version: 4.10.0000.2964 (English)
+      Driver Attributes: Final Retail
+          Date and Size: 8/29/2015 19:43:20, 66728 bytes
+              Cap Flags: 0x0
+           Format Flags: 0x0
+
+-------------------
+DirectInput Devices
+-------------------
+Poll w/ Interrupt: No
+
+-----------
+USB Devices
+-----------
+
+----------------
+Gameport Devices
+----------------
+
+------------
+PS/2 Devices
+------------
+
+---------------
+EVR Power Information
+---------------
+Current Setting: {5C67A112-A4C9-483F-B4A7-1D473BECAFDC} (Quality) 
+  Quality Flags: 2576
+    Enabled:
+    Force throttling
+    Allow half deinterlace
+    Allow scaling
+    Decode Power Usage: 100
+  Balanced Flags: 1424
+    Enabled:
+    Force throttling
+    Allow batching
+    Force half deinterlace
+    Force scaling
+    Decode Power Usage: 50
+  PowerFlags: 1424
+    Enabled:
+    Force throttling
+    Allow batching
+    Force half deinterlace
+    Force scaling
+    Decode Power Usage: 0
